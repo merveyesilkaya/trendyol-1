@@ -1,7 +1,9 @@
 Trendyol Projesi
 =====================
 
-üye ol
+trendyol giriş
 ----------------
-*trendyol'a git
-*"UyeGırısı" yap
+*trenyol.com açılır
+*Popup kapat
+*Email "merve133@gmail.com" girin
+*Şifre  "skosdkd" girin 
